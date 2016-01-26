@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.1530612
+  brandStrength: 0.5182599
+  lightness: 0.5204082
+  rhythmicContrast: 0.2325456
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0
+name: rocksandrocks
